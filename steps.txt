@@ -1,0 +1,6 @@
+Steps to create an API
+1. Creating our Django Project
+2. Making a Model and Serializer
+3. Views and URLs
+4. Generating the Schema
+5. Generating the Documentation
